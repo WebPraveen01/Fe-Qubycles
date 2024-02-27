@@ -1,0 +1,112 @@
+.left {
+  font-family: "Crimson Text", serif;
+  text-align: left;
+  padding-left: 6% !important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.logo {
+  width: 33%;
+}
+.formDiv {
+  margin-top: 70px;
+}
+.backToLogin {
+  display: flex;
+}
+.anglebtn {
+  /* margin-bottom: 10px; */
+  /* width: 34px;
+    height: 20px; */
+  border: none;
+  background-color: white;
+  /* margin-right: 10px !important; */
+}
+.angle {
+  width: 34px;
+  margin-left: -10px;
+}
+
+h1 {
+  /* font-size: 36px; */
+  /* font-weight: 700 !important; */
+  line-height: 46.79px;
+  height: 47px;
+  margin-bottom: 0px !important;
+  color: rgba(0, 0, 0, 1);
+}
+.text {
+  width: 78%;
+  height: 46px;
+  margin-bottom: 38px !important;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23.4px;
+  color: rgba(49, 49, 49, 1);
+  opacity: 75%;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px !important;
+  width: 78%;
+  height: 55px;
+  gap: 6px;
+  border-color: rgba(121, 116, 126, 1);
+}
+
+label {
+  position: absolute;
+  top: -11px;
+  left: 10px;
+  background-color: white;
+  padding: 0 5px;
+  color: rgba(49, 49, 49, 1);
+}
+.input-group img {
+  position: absolute;
+  width: 50px;
+  left: 71%; /* Adjust the left position according to your preference */
+  top: 50%;
+  transform: translateY(-50%);
+}
+a {
+  color: rgba(255, 134, 130, 1) !important;
+  text-decoration: none !important;
+}
+.btn-secoundary {
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 44, 249, 1),
+    rgba(120, 26, 254, 1)
+  ) !important;
+  width: 78%;
+  height: 56px;
+  color: #fff !important;
+  gap: 10px;
+}
+
+.Right {
+  padding: 3% 5% 3% 0% !important;
+}
+.rightImageDiv {
+  background-color: rgba(171, 79, 183, 0.1);
+  border-radius: 50px;
+}
+.studentImage {
+  flex: 1;
+  /* height: 100% !important; */
+  width: 100%;
+  padding: 12%;
+}

@@ -1,0 +1,138 @@
+.left {
+  font-family: "Crimson Text", serif;
+  text-align: left;
+  padding-left: 6% !important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.logo {
+  width: 33%;
+}
+.formDiv {
+  margin-top: 70px;
+}
+.backToLogin {
+  display: flex;
+}
+.anglebtn {
+  /* margin-bottom: 10px; */
+  /* width: 34px;
+  height: 20px; */
+  border: none;
+  background-color: white;
+  /* margin-right: 10px !important; */
+}
+.angle {
+  width: 34px;
+  margin-left: -10px;
+}
+
+h1 {
+  /* font-size: 36px; */
+  /* font-weight: 700 !important; */
+  line-height: 46.79px;
+  height: 47px;
+  margin-bottom: 0px !important;
+  color: rgba(0, 0, 0, 1);
+}
+.text {
+  width: 78%;
+  height: 46px;
+  margin-bottom: 38px !important;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23.4px;
+  color: rgba(49, 49, 49, 1);
+  opacity: 75%;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px !important;
+  width: 78%;
+  gap: 6px;
+}
+
+label {
+  position: absolute;
+  top: -11px;
+  left: 10px;
+  background-color: white;
+  padding: 0 5px;
+  color: #888;
+}
+
+.btn-secoundary {
+  background-image: linear-gradient(
+    90deg,
+    rgba(197, 44, 249, 1),
+    rgba(120, 26, 254, 1)
+  ) !important;
+  width: 78%;
+  height: 56px;
+  color: #fff !important;
+  gap: 10px;
+}
+
+.lineDiv {
+  margin-top: 48px;
+}
+.lineText {
+  display: inline-block;
+  margin: auto 10px;
+  color: rgba(49, 49, 49, 1);
+  opacity: 50%;
+}
+.line {
+  border-bottom: 1px solid rgba(49, 49, 49, 1);
+  margin-bottom: 5px;
+  display: inline-block;
+  width: 31%;
+  opacity: 25%;
+}
+.socialrow {
+  width: 84%;
+}
+.socialsbtn {
+  width: 90%;
+  color: #fff !important;
+  border-color: rgba(56, 105, 235, 1) !important;
+}
+.socialLeft {
+  padding: 0px !important;
+}
+.socialMiddle {
+  padding: 0px !important;
+}
+.socialRight {
+  padding: 0px !important;
+}
+
+.label {
+  margin-bottom: 0px !important;
+}
+
+.Right {
+  padding: 1% 5% 1% 0% !important;
+}
+.rightImageDiv {
+  background-color: rgba(171, 79, 183, 0.1);
+  border-radius: 50px;
+}
+.studentImage {
+  flex: 1;
+  /* height: 100% !important; */
+  width: 100%;
+  padding: 12%;
+}
